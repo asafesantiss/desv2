@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+ 
+  .conteudo-lista {
+    list-style: none;
+    padding: 0;
+  }
+  
+ 
+  .conteudo-lista li {
+    margin-bottom: 10px;
+  }
+  
+  
+  .conteudo-lista li a {
+    color: #555;
+    text-decoration: none;
+  }
+  
+  
